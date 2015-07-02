@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="shahrear" fetch="https://github.com/shahrear/" />
+
+  <remove-project name="platform/frameworks/base" />
+
+  <project path="frameworks/base" name="shahmod_frameworks_base" remote="shahrear"/>
+
+</manifest>
